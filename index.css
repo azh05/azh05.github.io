@@ -1,0 +1,15 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+
+#topbar {
+    background-color:aliceblue;
+    color:rgb(91, 98, 98);
+    overflow: hidden;
+}
+
+#topbar ul a:hover {
+    background-color:rgb(95, 180, 255);
+    color:rgb(240, 248, 255);
+}
