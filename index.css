@@ -1,15 +1,55 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:black;
+    margin:0px;
+    box-sizing: border-box;
 }
 
 #topbar {
-    background-color:aliceblue;
+    background-color:whitesmoke;
     color:rgb(91, 98, 98);
-    overflow: hidden;
+    overflow: scroll;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-top: 1px solid rgb(184, 184, 184);
+    border-bottom: 1px solid rgb(184, 184, 184);
 }
 
-#topbar ul a:hover {
-    background-color:rgb(95, 180, 255);
-    color:rgb(240, 248, 255);
+#topbar a{
+    float: right;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 20px;
+}
+
+
+#topbar a:hover {
+    background-color:cornflowerblue;
+    color:aliceblue;
+}
+
+.circleimage {
+    display:flex;
+    width:50%;
+    height:50vh;
+    align-items: center;
+}
+
+.circleimage #profilepic {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: 20px 20px 10px;
+    box-shadow: 10px 10px lightgray;
+}
+
+#aboutme {
+    background-color:rgb(222, 222, 222);
+}
+
+.bio {
+    margin: 10px 0;
 }
