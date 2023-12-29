@@ -2,54 +2,119 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:black;
     margin:0px;
+    padding:0px;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
-#topbar {
-    background-color:whitesmoke;
-    color:rgb(91, 98, 98);
-    overflow: scroll;
+.nav-container {
+    background-color: whitesmoke;
     position: fixed;
     top: 0;
     width: 100%;
-    border-top: 1px solid rgb(184, 184, 184);
-    border-bottom: 1px solid rgb(184, 184, 184);
+    display: flex;
+    justify-content: space-between;
 }
 
-#topbar a{
-    float: right;
-    text-align: center;
+.right-side, .left-side {
+    list-style-type: none;
+}
+
+.right-side li, .left-side li{
+    display: inline-block;
+}
+
+.right-side li a {
     padding: 15px 15px;
-    text-decoration: none;
     margin: 2px 2px;
     border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
 
+.left-side li {
+    margin-left: 2px;
+    padding: 15px 15px;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
 
-#topbar a:hover {
+.right-side li a:hover{
     background-color:cornflowerblue;
     color:aliceblue;
 }
 
+
 .circleimage {
-    display:flex;
     width:50%;
     height:50vh;
-    align-items: center;
+    vertical-align: top;
 }
 
-.circleimage #profilepic {
-    height: 300px;
-    width: 300px;
+#profilepic {
+    height: 70%;
+    width: auto;
     border-radius: 50%;
-    margin: 20px 20px 10px;
+    margin: 10% 30%;
     box-shadow: 10px 10px lightgray;
+}
+
+#bio {
+    display:block;
+    background-color: white;
+    margin: 5% 10% 10% 25%;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    box-shadow: 10px 10px lightgrey;
+}
+
+#aboutme-banner {
+    margin-top: 53.5px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    background-color:rgb(222, 222, 222);
+}
+
+.banner {
+    width: 100%;
+    text-align: center;
 }
 
 #aboutme {
     background-color:rgb(222, 222, 222);
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.bio {
-    margin: 10px 0;
+.responsive-text {
+    font-size: 2vmin;
+}
+
+#projects-banner {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:darkgrey;
+}
+
+.sect-title {
+    width: 20%;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 10px 10px lightgrey;
+    margin: 0 auto;
+    font-weight: bold;
+    font-size: 2.5vmin;
+}
+
+#projects {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+#projects p {
+    padding: 20px 0;
 }
