@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4e8b6718.css",
+    "main.js": "/my-app/static/js/main.781cff16.js",
+    "static/js/453.785134cd.chunk.js": "/my-app/static/js/453.785134cd.chunk.js",
+    "static/media/FreddyFazbear.JPG": "/my-app/static/media/FreddyFazbear.15c9bff0e97595881b4e.JPG",
+    "static/media/twokay.png": "/my-app/static/media/twokay.066ef76411028cfab657.png",
+    "static/media/Gojo cat copy.png": "/my-app/static/media/Gojo cat copy.a534bf22e4b98c2dceec.png",
+    "static/media/Happy.png": "/my-app/static/media/Happy.11e41e8b038c7d666137.png",
+    "static/media/EDGAR.png": "/my-app/static/media/EDGAR.05d51d9c2d8bb42af78c.png",
+    "index.html": "/my-app/index.html",
+    "main.4e8b6718.css.map": "/my-app/static/css/main.4e8b6718.css.map",
+    "main.781cff16.js.map": "/my-app/static/js/main.781cff16.js.map",
+    "453.785134cd.chunk.js.map": "/my-app/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8b6718.css",
+    "static/js/main.781cff16.js"
+  ]
+}
