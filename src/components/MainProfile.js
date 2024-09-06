@@ -3,9 +3,9 @@ import Profile from './Profile';
 import Tooltip from './Tooltip';
 import ProfileList from './ProfileList';
 
-import FreddyFazbear from './static/FreddyFazbear.JPG';
-import { interestsList } from './static/consts'
-import { classList } from './static/consts'
+import FreddyFazbear from '../static/FreddyFazbear.JPG';
+import { interestsList } from '../static/consts'
+import { classList } from '../static/consts'
 
 export default function MainProfile() {
     const numSwitch = 2;

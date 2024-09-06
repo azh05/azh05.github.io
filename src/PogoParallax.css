@@ -1,0 +1,107 @@
+header {
+    position: relative;
+    z-index: 100; /* Ensure header is above all parallax layers */
+}
+
+.animation, .animation_layer {
+    height: 110vh;
+    width: 100vw;
+}
+
+
+.animation {
+  display: block;
+  position: relative;
+  z-index: 10;
+}
+
+.animation_layer {
+	background-position: bottom center;
+	background-size: cover; /* Ensure the background covers the entire layer */
+    background-position: center; /* Center the background */
+	width: 100%;
+	position: absolute;
+}
+
+.animation_layer.parallax {
+	position: absolute;
+}
+
+#sky {
+    background-image: url(./static/svg-layers/sky.svg);
+	transform: scaleY(1.2);
+}
+
+#waterfront {
+	background-image: url(./static/svg-layers/waterfront.svg);
+	transform: scaleY(1.2);
+}
+
+#mountains_1 {
+	background-image: url(./static/svg-layers/mountains_1.svg);
+	transform: scaleY(1.2);
+}
+
+#mountains_2 {
+	background-image: url(./static/svg-layers/mountains_2.svg);
+	transform: scaleY(1.2);
+}
+
+#rocks {
+	background-image: url(./static/svg-layers/rocks.svg);
+	transform: scaleY(1.2);
+}
+
+#houses_1 {
+	background-image: url(./static/svg-layers/houses_1.svg);
+	transform: scaleY(1.2);
+}
+
+#houses_2 {
+	background-image: url(./static/svg-layers/houses_2.svg);
+	transform: scaleY(1.2);
+}
+
+#cresselia {
+	background-image: url(./static/svg-layers/cresselia.svg)
+}
+
+#woopers {
+	background-image: url(./static/svg-layers/woopers.svg)
+}
+
+#talonflame {
+	background-image: url(./static/svg-layers/talonflame.svg)
+}
+
+#croagunk {
+	background-image: url(./static/svg-layers/cresselia.svg)
+}
+
+#city-back {
+	background-image: url(./static/svg-layers/city-back.svg)
+}
+
+#city-fore {
+	background-image: url(./static/svg-layers/city-fore.svg);
+}
+
+#xurkitree {
+	background-image: url(./static/svg-layers/xurkitree.svg);
+}
+
+#gengar {
+	background-image: url(./static/svg-layers/gengar.svg);
+}
+
+#magnezone {
+	background-image: url(./static/svg-layers/magnezone.svg);
+}
+
+#code-1 {
+	background-image: url(./static/svg-layers/friendcode-1.svg)
+}
+
+#code-2 {
+	background-image: url(./static/svg-layers/friendcode-2.svg)
+}

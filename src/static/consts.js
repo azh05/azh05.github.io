@@ -29,8 +29,8 @@ export const classList = {
     "titleList": ["Math 115AH", "Math 182", "CS 35L", "Russian 90B", "Ethnomusicology 168A"],
     "descList": ["Proof-Based Linear Algebra: Very excited to start upper div math!",
         "Algorithms: Second Quarter of DSA but in the Math Department",
-        "Software Construction: I heard we were learning 7 or 8 languages in a quarter!? CS 50 moment!",
-        "Russian Civilization in the 20th Century: Bruin Walk said the professor was superb",
+        "Software Construction: I heard we were learning 7 or 8 languages in a quarter!?",
+        "Russian Civilization in the 20th Century: BruinWalk said the professor was superb",
         "Music of China: Learning the Zhong Yin Sheng this quarter!"
     ],
     "imageList": [Happy, Happy, Happy, Happy, Happy]

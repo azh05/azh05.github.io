@@ -1,5 +1,5 @@
-import NavBar from '../NavBar';
-import MainProfile from '../MainProfile';
+import NavBar from '../components/NavBar';
+import MainProfile from '../components/MainProfile';
 
 function Home() {
   return (
