@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dbbb931.css",
-    "main.js": "/static/js/main.126abfeb.js",
+    "main.js": "/static/js/main.faa4149e.js",
     "static/js/453.785134cd.chunk.js": "/static/js/453.785134cd.chunk.js",
     "static/media/FreddyFazbear.JPG": "/static/media/FreddyFazbear.15c9bff0e97595881b4e.JPG",
     "static/media/twokay.png": "/static/media/twokay.066ef76411028cfab657.png",
@@ -27,11 +27,11 @@
     "static/media/woopers.svg": "/static/media/woopers.f9f2776658209a61578d.svg",
     "index.html": "/index.html",
     "main.6dbbb931.css.map": "/static/css/main.6dbbb931.css.map",
-    "main.126abfeb.js.map": "/static/js/main.126abfeb.js.map",
+    "main.faa4149e.js.map": "/static/js/main.faa4149e.js.map",
     "453.785134cd.chunk.js.map": "/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dbbb931.css",
-    "static/js/main.126abfeb.js"
+    "static/js/main.faa4149e.js"
   ]
 }
