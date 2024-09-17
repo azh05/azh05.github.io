@@ -1,37 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dbbb931.css",
-    "main.js": "/static/js/main.faa4149e.js",
+    "main.css": "/static/css/main.80310d43.css",
+    "main.js": "/static/js/main.94d72139.js",
     "static/js/453.785134cd.chunk.js": "/static/js/453.785134cd.chunk.js",
     "static/media/FreddyFazbear.JPG": "/static/media/FreddyFazbear.15c9bff0e97595881b4e.JPG",
     "static/media/twokay.png": "/static/media/twokay.066ef76411028cfab657.png",
     "static/media/Gojo cat copy.png": "/static/media/Gojo cat copy.a534bf22e4b98c2dceec.png",
-    "static/media/city-fore.svg": "/static/media/city-fore.f5ad4566804b9591c8dd.svg",
-    "static/media/city-back.svg": "/static/media/city-back.2e797971582b3cfd74cb.svg",
-    "static/media/waterfront.svg": "/static/media/waterfront.6db695e362b2204db0d0.svg",
-    "static/media/sky.svg": "/static/media/sky.6a81c5cd7674d415a89c.svg",
-    "static/media/houses_1.svg": "/static/media/houses_1.fbe46ebc36dc9091e012.svg",
-    "static/media/mountains_1.svg": "/static/media/mountains_1.8efc12459efeea86dcc8.svg",
-    "static/media/mountains_2.svg": "/static/media/mountains_2.6923c3af7be79682f9e7.svg",
-    "static/media/rocks.svg": "/static/media/rocks.75a8b3e0015cdb03f186.svg",
-    "static/media/gengar.svg": "/static/media/gengar.a171f7ab9e61a6ab1401.svg",
-    "static/media/xurkitree.svg": "/static/media/xurkitree.d26bfaaf44326c04da29.svg",
-    "static/media/magnezone.svg": "/static/media/magnezone.826e2b6f3af861c04890.svg",
-    "static/media/houses_2.svg": "/static/media/houses_2.58970346497a37dbad87.svg",
-    "static/media/friendcode-2.svg": "/static/media/friendcode-2.6a7aadc8c755efa6a9a0.svg",
-    "static/media/friendcode-1.svg": "/static/media/friendcode-1.19b5dac3ec0d2d909f8a.svg",
     "static/media/Happy.png": "/static/media/Happy.11e41e8b038c7d666137.png",
     "static/media/EDGAR.png": "/static/media/EDGAR.05d51d9c2d8bb42af78c.png",
-    "static/media/talonflame.svg": "/static/media/talonflame.bb35d8e3f8c313ac57ac.svg",
-    "static/media/cresselia.svg": "/static/media/cresselia.c668c3ef2b119b0eec26.svg",
-    "static/media/woopers.svg": "/static/media/woopers.f9f2776658209a61578d.svg",
     "index.html": "/index.html",
-    "main.6dbbb931.css.map": "/static/css/main.6dbbb931.css.map",
-    "main.faa4149e.js.map": "/static/js/main.faa4149e.js.map",
+    "main.80310d43.css.map": "/static/css/main.80310d43.css.map",
+    "main.94d72139.js.map": "/static/js/main.94d72139.js.map",
     "453.785134cd.chunk.js.map": "/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dbbb931.css",
-    "static/js/main.faa4149e.js"
+    "static/css/main.80310d43.css",
+    "static/js/main.94d72139.js"
   ]
 }
