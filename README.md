@@ -1,1 +1,1 @@
-Hello
+UCLA CS and Applied Mathematics
