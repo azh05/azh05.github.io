@@ -1,0 +1,33 @@
+/* Center the content of the blog post */
+.blog-post {
+  max-width: 800px; /* Set a maximum width for the content */
+  margin: 0 auto; /* Center the content horizontally */
+  padding-left: 20px; /* Add left padding */
+  padding-right: 20px; /* Add right padding */
+}
+
+/* Add margins to headers */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 10px; /* Increase space above headers */
+  margin-bottom: 10px; /* Increase space below headers */
+}
+
+/* Add margins to paragraphs */
+p {
+  margin-top: 10px; /* Space above paragraphs */
+  margin-bottom: 10px; /* Space below paragraphs */
+}
+
+/* Add margins to lists */
+ul, ol {
+  margin-top: 10px; /* Space above lists */
+  margin-bottom: 10px; /* Space below lists */
+}
+
+blockquote {
+    color: #666;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 3em;
+    border-left: 0.5em #eee solid;
+  }

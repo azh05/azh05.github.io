@@ -1,0 +1,19 @@
+.content {
+  display: flex;
+  align-items: flex-start; /* Align items to the start */
+  justify-content: center; /* Center the content horizontally */
+}
+
+.left-image {
+  width: auto; /* Maintain aspect ratio */
+  height: 50vh; /* Set height to 50% of the viewport height */
+  margin-right: 40px; /* Increase space between image and text */
+}
+
+.text-content {
+  max-width: 500px; /* Make the text content a bit narrower */
+}
+
+.text-content h1 {
+  margin-bottom: 20px; /* Add space between title and paragraph */
+}

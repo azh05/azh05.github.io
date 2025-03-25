@@ -1,0 +1,36 @@
+.blog-content {
+  padding: 20px; /* Add some padding around the content */
+  max-width: 50%; /* Set maximum width to 50% of the page */
+  margin: 0 auto; /* Center the content horizontally */
+}
+
+.scrolling-table {
+  max-height: 300px; /* Set a maximum height for the table */
+  overflow-y: auto; /* Enable vertical scrolling */
+  border: 1px solid #ccc; /* Add a border around the table */
+  margin-top: 20px; /* Space between paragraph and table */
+}
+
+table {
+  width: 100%; /* Make the table take the full width */
+  border-collapse: collapse; /* Collapse borders */
+}
+
+th, td {
+  border: 1px solid #ddd; /* Add borders to table cells */
+  padding: 8px; /* Add padding to table cells */
+  text-align: left; /* Align text to the left */
+}
+
+th {
+  background-color: #f2f2f2; /* Light gray background for header */
+}
+
+ul {
+  padding-left: 2rem;
+}
+
+ol {
+  list-style: decimal;
+  padding-left: 2rem;
+}
